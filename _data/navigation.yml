@@ -2,6 +2,7 @@
 main:
   - title: "Blog Posts"
     url: /year-archive/
+    # TODO: Teaching이랑 / Talks는 여전히 publications가 앞에 나옴
 
   - title: "Publications"
     url: /publications/
