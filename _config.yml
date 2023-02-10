@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Junho Elias Lee"
   avatar           : "stegosaurus.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Hello, I’m a Ph.D student at Korea Advanced Institute of Science and Technology (KAIST)"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/elias-lee"
   google_plus      :
   keybase          :
   instagram        :
