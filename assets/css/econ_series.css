@@ -1,3 +1,6 @@
+/* TODO: Why does h2 applyes to all blogs pages and not only within Markdown posts  */
+
+
 h2 {
     font-weight: lighter;
     font-family: "Clarkson",Helvetica,sans-serif;
@@ -5,6 +8,6 @@ h2 {
     margin-bottom: 1rem;
     color: #32325D;
 }
-body {
+.body {
     font-family: "Clarkson",Helvetica,sans-serif;
 }
