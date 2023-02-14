@@ -9,7 +9,8 @@ categories:
   - Economic Growth
   - Public Policy
 ---
-<link href="{{ site.baseurl }}/assets/css/blog.css" rel="stylesheet">
+<!-- TODO: LOCAL HOST에서는 CSS가 적용되는데 Github에 Deploy 한 후에는 CSS를 불러오지 못함-->
+<link href="{{ site.baseurl }}/lelias.github.io/assets/css/blog.css" rel="stylesheet">
 <!-- <style>
   {% include blog.css %}
 </style> -->
