@@ -9,11 +9,13 @@ categories:
   - Economic Growth
   - Public Policy
 ---
-<!-- Local 에서 보면서 editing 하려면 includes에서 불러와야함. 단, Github url 문제로 Deploy상에는 -->
-<link href="{{ site.baseurl }}/lelias.github.io/assets/css/blog.css" rel="stylesheet">
-<!-- <style>
+<!-- Local 에서 보면서 editing 하려면 includes에서 불러와야함. 단, Github url 문제로 Deploy상에는 정상적으로 import가 안됨으로 
+로컬용으로 include코드를 추가하고
+Github용으로는 link tag를 추가함-->
+<link href="{{ site.baseurl }}/lelias.github.io/assets/css/econ_series.css" rel="stylesheet">
+<style>
   {% include blog.css %}
-</style> -->
+</style>
 
 This is Series is a summary of the text book "Introduction to Economic Growth" by CHARLES I. JONES and DIETRICH VOLLRATH.
 

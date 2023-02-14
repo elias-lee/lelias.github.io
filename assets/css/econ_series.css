@@ -1,0 +1,11 @@
+h2 {
+    font-weight: lighter;
+    font-family: "Clarkson",Helvetica,sans-serif;
+    font-size: 40px;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: #32325D;
+}
+body {
+    font-family: "Clarkson",Helvetica,sans-serif;
+}
