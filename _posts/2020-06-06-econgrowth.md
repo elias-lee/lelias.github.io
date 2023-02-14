@@ -10,7 +10,7 @@ categories:
   - Public Policy
 ---
 <!-- Local 에서 보면서 editing 하려면 includes에서 불러와야함. 단, Github url 문제로 Deploy상에는 -->
-<link href="{{ site.baseurl }}lelias.github.io/assets/css/blog.css" rel="stylesheet">
+<link href="{{ site.baseurl }}/lelias.github.io/assets/css/blog.css" rel="stylesheet">
 <!-- <style>
   {% include blog.css %}
 </style> -->
