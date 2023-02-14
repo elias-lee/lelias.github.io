@@ -9,7 +9,7 @@ categories:
   - Economic Growth
   - Public Policy
 ---
-<link href="blog.css" rel="stylesheet"></link>
+<link href="{{ site.baseurl }}/css/blog.css" rel="stylesheet">
 
 This is Series is a summary of the text book "Introduction to Economic Growth" by CHARLES I. JONES and DIETRICH VOLLRATH.
 
