@@ -1,12 +1,14 @@
 ---
-title: 'KOREAN SMEs Development Policy (KDI,2012)'
+title: 'Korean SME Development Policy (KDI,2012)'
 date: 2022-04-13
 permalink: /posts/2013/08/blog-post-2/
 tags:
   - KOTRA
   - KOICA
+categories:
   - Korean Development
-  - SMEs Policy
+  - SME Policy
+  - Public Policy
 ---
 
 # KOREAN SMEs Development Policy
