@@ -9,10 +9,10 @@ categories:
   - Economic Growth
   - Public Policy
 ---
-<!-- <link href="{{ site.baseurl }}/css/blog.css" rel="stylesheet"> -->
-<style>
-  {%include blog.css%}
-</style>
+<link href="{{ site.baseurl }}/assets/css/blog.css" rel="stylesheet">
+<!-- <style>
+  {% include blog.css %}
+</style> -->
 
 This is Series is a summary of the text book "Introduction to Economic Growth" by CHARLES I. JONES and DIETRICH VOLLRATH.
 
