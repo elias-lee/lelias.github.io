@@ -25,13 +25,13 @@ This series is a summary of the text book "Introduction to Economic Growth" by C
   <img src = "https://github.com/elias-lee/lelias.github.io/blob/master/_posts/resources/econ_growth/econ_growth_cover.png?raw=true" style="max-width: 30%;">
 </p>
 
-The Fundamental question of "Why are some countries richer than others?" have long troubled economists. The modern examination of this question dates back to two seminal papers: one by *Robert Solow* and the other by *Paul Romer* and *Robert Lucas*.
+The Fundamental question of "Why are some countries richer than others?" have long troubled economists. The modern examination of this question dates back to two seminal papers: one by **Robert Solow** and the other by **Paul Romer** and **Robert Lucas**.
 
 ## Robert Solow
 Solow's paper stressed the importance of **Physical Capital** and **Technological Progress**.
 
-### Paul Romer and Robert Lucas 
-Romer and Lucas reignited the discussion on economic growth emphasizing the economics of **ideas** and **human capital**. Moreover, Romer introduced the *Economics of technology to Macroeconomists* 
+## Paul Romer and Robert Lucas 
+Romer and Lucas reignited the discussion on economic growth emphasizing the economics of **ideas** and **human capital**. Moreover, Romer introduced the **Economics of technology to Macroeconomists** 
 
 These theoretical advances was taken on by Rober Barro who quantified and tested this theories.
 
@@ -43,5 +43,8 @@ The textbook focuses in the measure of income per capita for the reasons below:
 
 ![](https://github.com/elias-lee/lelias.github.io/blob/master/_posts/resources/econ_growth/econ_stats_on_growth.png?raw=true)
 
-### Facts
-The book mentions "4" **Stylized Facts** that are broadly applied to the countries in the world and "3" others that describes some features of the U.S economy
+## Facts
+The book mentions "4" *Stylized Facts* that are broadly applied to the countries in the world and "3" others that describes some features of the U.S economy but also generally applied to other countries "In the long run"
+
+### FACT 1
+
