@@ -3,11 +3,20 @@
 
 h2 {
     font-weight: lighter;
-    font-family: "Clarkson",Helvetica,sans-serif;
+    font-family: 'Open Sans', sans-serif;
     margin-top: 2rem;
     margin-bottom: 1rem;
     color: #32325D;
 }
+
+h3 {
+    font-weight: lighter;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    color: #4287f5;
+}
+
 .body {
-    font-family: "Clarkson",Helvetica,sans-serif;
+    font-family: 'Open Sans', sans-serif;;
 }
