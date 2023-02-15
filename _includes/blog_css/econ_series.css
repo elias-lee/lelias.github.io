@@ -1,0 +1,22 @@
+/* TODO: Why does styling applies to all blogs pages and not only within Markdown posts  */
+
+
+h2 {
+    font-weight: lighter;
+    font-family: 'Playfair Display', serif;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: #32325D;
+}
+
+h3 {
+    font-weight: lighter;
+    font-family: 'Playfair Display', serif;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    color: #4287f5;
+}
+
+.body {
+    font-family: 'Playfair Display', serif;
+}

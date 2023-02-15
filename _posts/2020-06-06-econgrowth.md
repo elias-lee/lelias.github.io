@@ -13,11 +13,13 @@ categories:
 로컬용으로 include코드를 추가하고
 Github용으로는 link tag를 추가함-->
 <!-- <link href="{{ site.baseurl }}/lelias.github.io/assets/css/econ_series.css" rel="stylesheet"> -->
+
 <style>
-  {% include blog.css %}
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@900&display=swap');
+  {% include blog_css/econ_series.css %}
 </style>
 
-This is Series is a summary of the text book "Introduction to Economic Growth" by CHARLES I. JONES and DIETRICH VOLLRATH.
+This series is a summary of the text book "Introduction to Economic Growth" by CHARLES I. JONES and DIETRICH VOLLRATH.
 
 <p align = "left">
   <img src = "https://github.com/elias-lee/lelias.github.io/blob/master/_posts/resources/econ_growth/econ_growth_cover.png?raw=true" style="max-width: 30%;">
@@ -29,12 +31,17 @@ The Fundamental question of "Why are some countries richer than others?" have lo
 Solow's paper stressed the importance of **Physical Capital** and **Technological Progress**.
 
 ### Paul Romer and Robert Lucas 
-Romer and Lucas reignited the discussion on economic growth emphasizing the economics of **ideas** and **human capital**. Moreover Romer introduced the *Economics of technology to Macroeconomists* 
+Romer and Lucas reignited the discussion on economic growth emphasizing the economics of **ideas** and **human capital**. Moreover, Romer introduced the *Economics of technology to Macroeconomists* 
 
 These theoretical advances was taken on by Rober Barro who quantified and tested this theories.
 
 ## The Data of Growth and Development.
 
+The textbook focuses in the measure of income per capita for the reasons below:
+- Theories developed in subsequent chapters are couched in terms of per capita income.
+- Good "summary statistic" since is correlated with other measures of quantity of life. 
+
 ![](https://github.com/elias-lee/lelias.github.io/blob/master/_posts/resources/econ_growth/econ_stats_on_growth.png?raw=true)
 
-<h2>TEST</h2>
+### Facts
+The book mentions "4" **Stylized Facts** that are broadly applied to the countries in the world and "3" others that describes some features of the U.S economy
