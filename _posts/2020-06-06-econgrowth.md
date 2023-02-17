@@ -1,7 +1,7 @@
 ---
 title: 'Introduction to Economic Growth Series-Intro'
 date: 2020-06-06
-permalink: /posts/2014/08/blog-post-3/
+permalink: /posts/2012/blog-post-1/
 tags:
   - Charles I. Jones
 categories:
@@ -47,4 +47,21 @@ The textbook focuses in the measure of income per capita for the reasons below:
 The book mentions "4" *Stylized Facts* that are broadly applied to the countries in the world and "3" others that describes some features of the U.S economy but also generally applied to other countries "In the long run"
 
 ### FACT 1
+There is enormous variation in per capita income across economies. The poorest countries have per capita incomes that are less than 5 percent of per capita incomes in the richest countries.
 
+#### GDP per capita vs GDP per worker
+The only difference is in the denominator
+$$ \text{GDP Per Capita} = \frac{GDP}{population} \quad \text{GDP Per Worker} = \frac{GDP}{Labor} \\ \ \\ \text{Labor Force Participation Rate} = \frac{Labor}{population}$$ 
+
+### FACT 2
+Rates of economic growth vary substantially across countries. 
+
+A useful way to interpret these growth rates was provided by Robert E. Lucas, Jr., in a paper titled “On the Mechanics of Economic Development”.
+According to Lucas a country growing $g$ percent per year will double its per capita income every $\frac{70}{g}$ years.
+
+$$ Y(t) = Y_0 e^{gt^*} \rightarrow t^* = \frac{log2}{g}$$
+
+Where $Y(t)$ Per-capita Income at time $t$ and $Y_0$ initial value. 
+
+### FACT 3
+Growth rates are not generally constant over time. For the world as a whole, growth rates were close to zero over most of history but have increased sharply in the twentieth century. For individual countries, growth rates also change over time.

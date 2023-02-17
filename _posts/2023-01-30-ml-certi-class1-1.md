@@ -1,7 +1,7 @@
 ---
-title: 'Google ML Certificates Series- Google Cloud Big Data and Machine Learning Fundamentals'
+title: 'Google ML Certificates Series- Google Cloud Big Data and Machine Learning Fundamentals-1'
 date: 2023-01-30
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2023/blog-post-4/
 tags:
   - Google
   - Certificate

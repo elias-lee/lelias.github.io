@@ -1,7 +1,7 @@
 ---
 title: 'Korean SME Development Policy (KDI,2012)'
 date: 2022-04-13
-permalink: /posts/2013/08/blog-post-2/
+permalink: /posts/2022/blog-post-3/
 tags:
   - KOTRA
   - KOICA
