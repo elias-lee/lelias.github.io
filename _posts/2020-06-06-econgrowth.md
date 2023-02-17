@@ -82,12 +82,12 @@ In the United States over the last century,
 #### Kaldors Stylized Facts
 This stylized fact, is drawn largely from a lecture given by Nicholas Kaldor at a 1958 conference on capital accumulation (Kaldor 1961)
 
-:one: Kaldor’s ﬁrst fact <br>
+1) Kaldor’s ﬁrst fact <br>
 The rate of return to capital is roughly constant— is best seen by noting that the real interest rate on government debt in the U.S. economy shows no trend.[^1]
 
 [^1]: We do not observe real interest rates, but we can calculate $$ \text{Real Interest Rate} = \text{nominal interest rate} - \text{expected/actual rate of inflation} $$
 
-:two: Kaldor's second fact <br>
+2) Kaldor's second fact <br>
 Factors of production can group into capital and labor. [^2] 
 In the U.S the labor share has been relatively constant over time, at a value of around 0.7
 
@@ -95,7 +95,7 @@ This together with the first fact imply that $$ \frac{K}{Y} $$ is roughly consta
 
 [^2]: For the United States, one can calculate labor’s share of GDP by looking at wage and salary payments and compensation for the self-employed as a share of GDP
 
-:three: Kaldor's third fact <br>
+3) Kaldor's third fact <br>
 Third fact is a slight reinterpretation of one of Kaldor’s stylized facts. GDP per capita growth has a growing trend at a rate of 1.8% per year. 
 
 ### FACT 6
