@@ -65,3 +65,49 @@ Where $Y(t)$ Per-capita Income at time $t$ and $Y_0$ initial value.
 
 ### FACT 3
 Growth rates are not generally constant over time. For the world as a whole, growth rates were close to zero over most of history but have increased sharply in the twentieth century. For individual countries, growth rates also change over time.
+
+![World GDP Growth Rate](https://github.com/elias-lee/lelias.github.io/blob/master/_posts/resources/econ_growth/econ_growth_world_gdp_growth.png?raw=true)
+
+### FACT 4
+A country’s relative position in the world distribution of per capita incomes is not immutable. Countries can move from being “poor” to being “rich,” and vice versa.
+
+## Other Stylized Facts
+They are general characteristics of most economies “in the long run.”
+### FACT 5 
+In the United States over the last century,
+1.  the <mark style="background: #BBFABBA6;">*real rate of return to capital*</mark>, r, shows no trend upward or downward;
+2.  the shares of income devoted to capital, <mark style="background: #BBFABBA6;">$\frac{rK}{Y}$</mark>, and labor, <mark style="background: #BBFABBA6;">$\frac{wL}{Y}$</mark>, show no trend; and
+3.  the average <mark style="background: #BBFABBA6;">growth rate of output per person</mark> has been <mark style="background: #BBFABBA6;">*positive*</mark> and relatively <mark style="background: #BBFABBA6;">*constant*</mark> over time — that is, the United States exhibits steady, sustained per capita income growth.
+
+#### Kaldors Stylized Facts
+This stylized fact, is drawn largely from a lecture given by Nicholas Kaldor at a 1958 conference on capital accumulation (Kaldor 1961)
+
+:one: Kaldor’s ﬁrst fact <br>
+The rate of return to capital is roughly constant— is best seen by noting that the real interest rate on government debt in the U.S. economy shows no trend.[^1]
+
+[^1]: We do not observe real interest rates, but we can calculate $$ \text{Real Interest Rate} = \text{nominal interest rate} - \text{expected/actual rate of inflation} $$
+
+:two: Kaldor's second fact <br>
+Factors of production can group into capital and labor. [^2] 
+In the U.S the labor share has been relatively constant over time, at a value of around 0.7
+
+This together with the first fact imply that $$ \frac{K}{Y} $$ is roughly constant in the U.S
+
+[^2]: For the United States, one can calculate labor’s share of GDP by looking at wage and salary payments and compensation for the self-employed as a share of GDP
+
+:three: Kaldor's third fact <br>
+Third fact is a slight reinterpretation of one of Kaldor’s stylized facts. GDP per capita growth has a growing trend at a rate of 1.8% per year. 
+
+### FACT 6
+Growth in output and growth in the volume of international trade are closely related.
+
+### FACT 7
+Both skilled and unskilled workers tend to migrate from poor to rich countries or regions.
+
+This fact is important to understand about the 💰 *Real Wages*
+Th reason why people are willing to pay the high cost of moving is because both skilled and unskilled labor must be higher in high-income regions 
+
+In short: 
+<p style="text-align: center;"> Work pays better in high-income regions </p>
+
+
