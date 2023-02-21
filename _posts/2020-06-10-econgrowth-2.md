@@ -25,18 +25,19 @@ This series is a summary of the text book "Introduction to Economic Growth" by C
   <img src = "https://github.com/elias-lee/lelias.github.io/blob/master/_posts/resources/econ_growth/econ_growth_cover.png?raw=true" style="max-width: 30%;">
 </p>
 
-Robert Solow's seminal paper “A Contribution to the Theory of Economic Growth.” was published in 1956. 
 
-There are important assumption that you must set to understand this model 
-- Countries produce and consume a single homogenous good. 
-- technology is exogenous
-- no international trade
+:us: Robert Solow's seminal paper “A Contribution to the Theory of Economic Growth.” was published in 1956. 
+
+There are important assumption that must be set to understand this model 
+1. Countries produce and consume a single homogenous good. 
+2. technology is exogenous
+3. no international trade
 
 # The Basic Solow Model
 Solow's model is built around two equations, <mark style="background: #BBFABBA6;">a production function</mark> and <mark style="background: #FF5582A6;">capital accumulation equation.</mark> 
 
 ## Production Function
-The Production function describes how ***inputs*** combine to produce output.[^1] Inputs are grouped into two categories capital <mark style="background: #ABF7F7A6;">$K$</mark>  and labor <mark style="background: #ABF7F7A6;">$L$</mark>. The production function is assumed to have a cobb-douglass form. 
+The Production function describes how ***inputs*** combine to produce output.[^1] Inputs are grouped into two categories :dollar: capital <mark style="background: #ABF7F7A6;">$K$</mark> and :construction_worker: labor <mark style="background: #ABF7F7A6;">$L$</mark>. The production function is assumed to have a cobb-douglass form. 
 
 $$ Y = F(K,L) = K^\alpha L^{1-\alpha}$$
 
@@ -56,8 +57,10 @@ Now what we are really interested is in finding output per worker or per capita 
 
 $$y=k^\alpha $$
 
-![World GDP Growth Rate](https://github.com/elias-lee/lelias.github.io/blob/master/_posts/resources/econ_growth/cobb-douglas-pf.png?raw=true)
 
+<p align = "center">
+  <img src = "https://raw.githubusercontent.com/elias-lee/lelias.github.io/master/_posts/resources/econ_growth/cobb-douglas-pf.png" style="max-width: 100%;">
+</p>
 
 
 ## Capital Accumulation
