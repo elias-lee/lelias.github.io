@@ -26,7 +26,7 @@ This series is a summary of the text book "Introduction to Economic Growth" by C
 </p>
 
 
-:us: Robert Solow's seminal paper “A Contribution to the Theory of Economic Growth.” was published in 1956. 
+🇺🇸 Robert Solow's seminal paper “A Contribution to the Theory of Economic Growth.” was published in 1956. 
 
 There are important assumption that must be set to understand this model 
 1. Countries produce and consume a single homogenous good. 
@@ -37,7 +37,7 @@ There are important assumption that must be set to understand this model
 Solow's model is built around two equations, <mark style="background: #BBFABBA6;">a production function</mark> and <mark style="background: #FF5582A6;">capital accumulation equation.</mark> 
 
 ## Production Function
-The Production function describes how ***inputs*** combine to produce output.[^1] Inputs are grouped into two categories :dollar: capital <mark style="background: #ABF7F7A6;">$K$</mark> and :construction_worker: labor <mark style="background: #ABF7F7A6;">$L$</mark>. The production function is assumed to have a cobb-douglass form. 
+The Production function describes how ***inputs*** combine to produce output.[^1] Inputs are grouped into two categories 💵 capital <mark style="background: #ABF7F7A6;">$K$</mark> and 👷 labor <mark style="background: #ABF7F7A6;">$L$</mark>. The production function is assumed to have a cobb-douglass form. 
 
 $$ Y = F(K,L) = K^\alpha L^{1-\alpha}$$
 
