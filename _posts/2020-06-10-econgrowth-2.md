@@ -32,10 +32,10 @@ There are important assumption that you must set to understand this model
 - technology is exogenous
 - no international trade
 
-## The Basic Solow Model
+# The Basic Solow Model
 Solow's model is built around two equations, <mark style="background: #BBFABBA6;">a production function</mark> and <mark style="background: #FF5582A6;">capital accumulation equation.</mark> 
 
-### Production Function
+## Production Function
 The Production function describes how ***inputs*** combine to produce output.[^1] Inputs are grouped into two categories capital <mark style="background: #ABF7F7A6;">$K$</mark>  and labor <mark style="background: #ABF7F7A6;">$L$</mark>. The production function is assumed to have a cobb-douglass form. 
 
 $$ Y = F(K,L) = K^\alpha L^{1-\alpha}$$
@@ -60,7 +60,7 @@ $$y=k^\alpha $$
 
 
 
-### Capital Accumulation
+## Capital Accumulation
 <!-- TODO: from page 24  -->
 
 
