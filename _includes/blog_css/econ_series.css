@@ -44,3 +44,8 @@ h3.nocount:before,
 h4.nocount:before, 
 h5.nocount:before, 
 h6.nocount:before { content: ""; counter-increment: none } 
+
+colored{
+    font-family: 'Playfair Display', serif;
+    color: #9f242a;
+}

@@ -50,7 +50,14 @@ $$\max_{K,L} F(K,L)-rK-wL$$
 
 Solving the __*first-order condition*__ firms will hire until <mark style="background: #FF5582A6;">marginal product of labor equals wage and marginal product of capital equals rent</mark>
 
-$$w=\frac{\delta F}{\delta L} = (1-\alpha)\frac{Y}{L}, \\ \ \\ \text{Share of output paid to labor} \qquad w\frac{L}{Y} = 1-\alpha\\ \ \\ r = \frac{\delta F}{\delta K} = \delta \frac{Y}{K} \\ \ \\ \text{Share of output paid to capital} \qquad r\frac{K}{Y}=\alpha$$ 
+| Description  | Formula |
+|:---------------------------------:|---|
+| Hire point (Labor)| $w=\frac{\delta F}{\delta L} = (1-\alpha)\frac{Y}{L}$ |
+| Share of output paid to labor   | $w\frac{L}{Y} = 1-\alpha$ |
+| Hire point (Capital)            |  $r = \frac{\delta F}{\delta K} = \delta \frac{Y}{K}$ |
+| Share of output paid to Capital | $r\frac{K}{Y}=\alpha$  |
+
+You can see that the factor shares are <colored>constant</colored> over time, which is consistent with the Fact 5 from Chapter 1. 
 
 
 Now what we are really interested is in finding output per worker or per capita output thus replacing $y \equiv\frac{Y}{L}$ and $k\equiv\frac{K}{L}$ the original function [$Y = F(K,L) = K^\alpha L^{1-\alpha}$] gives us: 
@@ -58,9 +65,10 @@ Now what we are really interested is in finding output per worker or per capita 
 $$y=k^\alpha $$
 
 
-<p align = "center">
-  <img src = "https://raw.githubusercontent.com/elias-lee/lelias.github.io/master/_posts/resources/econ_growth/cobb-douglas-pf.png" style="max-width: 100%;">
-</p>
+[^1]: Remember production function measures only physical quantities, however this does not mean that output consists only of tangible goods. 
+
+[^2]: Although any value from 0 to 1 is possible Cobb and Douglas proposed that in case of U.S manufacturing $\alpha=\frac{1}{4}$ fits generally very well. 
+
 
 
 ## Capital Accumulation
@@ -83,9 +91,6 @@ $$y=k^\alpha $$
 
 
 
-[^1]: Remember production function measures only physical quantities, however this does not mean that output consists only of tangible goods. 
-
-[^2]: Although any value from 0 to 1 is possible Cobb and Douglas proposed that in case of U.S manufacturing $\alpha=\frac{1}{4}$ fits generally very well. 
 
 
 
