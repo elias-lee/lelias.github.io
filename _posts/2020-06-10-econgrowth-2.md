@@ -52,17 +52,20 @@ Solving the __*first-order condition*__ firms will hire until <mark style="backg
 
 | Description  | Formula |
 |:---------------------------------:|---|
-| Hire point (Labor)| $w=\frac{\delta F}{\delta L} = (1-\alpha)\frac{Y}{L}$ |
+| Hire point (Labor)| $w=\frac{\partial F}{\partial L} = (1-\alpha)\frac{Y}{L}$ |
 | Share of output paid to labor   | $w\frac{L}{Y} = 1-\alpha$ |
-| Hire point (Capital)            |  $r = \frac{\delta F}{\delta K} = \delta \frac{Y}{K}$ |
+| Hire point (Capital)            |  $r = \frac{\partial F}{\partial K} = \alpha \frac{Y}{K}$ |
 | Share of output paid to Capital | $r\frac{K}{Y}=\alpha$  |
 
-You can see that the factor shares are <colorred> constant</colorred> over time, which is consistent with the Fact 5 from Chapter 1. 
+You can see that the factor shares are <color_red> constant</color_red> over time, which is consistent with the Fact 5 from Chapter 1. 
 
 
-Now what we are really interested is in finding output per worker or per capita output thus replacing $y \equiv\frac{Y}{L}$ and $k\equiv\frac{K}{L}$ the original function [$Y = F(K,L) = K^\alpha L^{1-\alpha}$] gives us: 
+Output per worker \& per capita can be also found as follows: replacing $y \equiv\frac{Y}{L}$ and $k\equiv\frac{K}{L}$ the original function 
+$$Y = F(K,L) = K^\alpha L^{1-\alpha}$$
+gives us: $y=k^\alpha$
 
-$$y=k^\alpha $$
+![](https://github.com/elias-lee/lelias.github.io/blob/master/_posts/resources/econ_growth/cobb-douglas-pf.png?raw=true)
+
 
 
 [^1]: Remember production function measures only physical quantities, however this does not mean that output consists only of tangible goods. 
@@ -70,46 +73,90 @@ $$y=k^\alpha $$
 [^2]: Although any value from 0 to 1 is possible Cobb and Douglas proposed that in case of U.S manufacturing $\alpha=\frac{1}{4}$ fits generally very well. 
 
 
-
 ## Capital Accumulation
-<!-- TODO: from page 24  -->
+
+Another important important feature of the Solow model is the description of how capital accumulates Solow's proposed capital accumulation equation is define as 
+
+$$\dot K = \overbrace {sY}^{\text{gross investment}} - \overbrace{ \delta K}^{\text{depreciation of capital}}$$
+
+The interpretation of this equation is that the change in capital stock $\dot K$ is equal to the amount of gross investment, $sY$ minus the depreciation rate $\delta K$. 
+
+$\dot K$ is the change in the capital stock per "period". To put it more simply the continuous form of $K_{t+1}-K_t$. 
+
+$$\dot K = \frac{dK}{dt}$$
+
+It is important to highlight that this equation assumes the saving rates to be a <color_red> constant fraction</color_red> of their combine wage and rental income[^3]. Regarding the depreciation rate it also implies that a constant fraction is depreciated every period. The traditional method assumes that a total of 5% is depreciated every year. 
+$$\delta = .05$$
+
+There are two easy tricks that are applied to study the growth: take logs and derivatives. This trick can be applied in two ways
+
+Example 1:
+$$
+\begin{aligned}
+k \equiv \frac{K}{L} &\Longrightarrow \log{k} =  \log{K}-\log{L} \\  &\Longrightarrow \frac{\dot k}{k} = \frac{\dot K}{K} - \frac{\dot L}{L}
+\end{aligned}
+$$ 
+
+Example 1:
+$$
+\begin{aligned}
+y = k^\alpha &\Longrightarrow \log {y} = \alpha \log{k } \\
+&\Longrightarrow \frac{\dot y}{y} = \alpha \frac{\dot k}{k}\end{aligned}
+$$ 
+
+
+Now consider the following growth rate $\frac{\dot{L}}{L}$[^4]. The book assumes that labor force is given by $n$. Thus, $\frac{\dot L}{L} = n$
+
+$$L(t) = L_0 e^{nt}$$
+
+Now we will combine $\dot K = sY -  \delta K$ with example one to derive: 
+$$
+\begin{aligned}
+\frac{\dot k}{k} &= \frac{sY}{K} - n - \delta \\
+& = \frac{sY}{K} -n - \delta \\ 
+\dot k  &= sy - (n+\delta)k
+\end{aligned}
+$$
+
+This formula can be interpreted as "the change in capital per worker each period is determined by three terms: investment per worker ($sY$) depreciation per worker ($\delta k$) and capital per worker ($nk$)"
+
+[^3]: Individual Total income $Y = wL + rK$. <br>In a closed economy saving = investment and the only purpose of investment is to accumulate capital
+
+[^4]: This book assumes in its major part that the labor force participation rate and the population growth rate is constant. 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![](https://github.com/elias-lee/lelias.github.io/blob/master/_posts/resources/econ_growth/econ_stats_on_growth.png?raw=true)
+## Solving The Basic Solow Model 
+TODO:
 
 
 In short: 
 <p style="text-align: center;"> Work pays better in high-income regions </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ![](https://github.com/elias-lee/lelias.github.io/blob/master/_posts/resources/econ_growth/econ_stats_on_growth.png?raw=true) -->
+
+
 
 
