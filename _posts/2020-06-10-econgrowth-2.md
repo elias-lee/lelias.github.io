@@ -57,7 +57,7 @@ Solving the __*first-order condition*__ firms will hire until <mark style="backg
 | Hire point (Capital)            |  $r = \frac{\delta F}{\delta K} = \delta \frac{Y}{K}$ |
 | Share of output paid to Capital | $r\frac{K}{Y}=\alpha$  |
 
-You can see that the factor shares are <colored>constant</colored> over time, which is consistent with the Fact 5 from Chapter 1. 
+You can see that the factor shares are <colorred> constant</colorred> over time, which is consistent with the Fact 5 from Chapter 1. 
 
 
 Now what we are really interested is in finding output per worker or per capita output thus replacing $y \equiv\frac{Y}{L}$ and $k\equiv\frac{K}{L}$ the original function [$Y = F(K,L) = K^\alpha L^{1-\alpha}$] gives us: 
