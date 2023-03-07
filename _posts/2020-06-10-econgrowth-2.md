@@ -127,7 +127,44 @@ This formula can be interpreted as "the change in capital per worker each period
 
 
 
-## Solving The Basic Solow Model 
+# Solving The Basic Solow Model 
+
+> What is a model ❓❓❓ <br>
+A model is an equation describing the relationship among ***endogenous variables*** involving ***exogenous variables***[^5] and ***parameters***. 
+
+To recap the two important equations of the Solow model are: Output per worker and Capital per worker. 
+
+$$y = K^\alpha$$
+$$\dot k  = sy - (n + \delta)k$$
+
+Now we can see how does the economy of a country grow by using these two equations. 
+
+## Capital deepening vs capital widening
+
+![](https://github.com/elias-lee/lelias.github.io/blob/master/_posts/resources/econ_growth/basic_solow_diagram.png?raw=true)
+
+In the figure above you can see two curves:
+1. Amount of investment per person ($sy=sk^\alpha$)
+2. Amount of new investment per person required to keep capital per worker constant (($n+\delta )k$)
+- The arrows in the lower part implies that capital per worker adjusts. 
+
+If the difference [$\dot k = sy-(n+\delta)k$] is ***positive*** we call the the economy <color_red> capital deepening</color_red>. When the changes are 0 but actual capital stock ($K$) is growing we refer it as <color_red> capital widening</color_red>. 
+
+If we include also the production function to diagram we can obtain the ***steady-state consumption per worker*** which is the difference between steady-state output per worker $y^*$ and steady-state investment per worker $sy^*$
+
+![](https://github.com/elias-lee/lelias.github.io/blob/master/_posts/resources/econ_growth/solow_diagram_and_production_function.png?raw=true)
+
+[^5]: Values determined outside of the model
+
+## Comparative Statistics (reactions to shocks)
+
+
+
+
+
+
+
+
 TODO:
 
 
