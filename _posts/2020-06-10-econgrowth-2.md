@@ -110,13 +110,12 @@ Now consider the following growth rate $\frac{\dot{L}}{L}$[^4]. The book assumes
 $$L(t) = L_0 e^{nt}$$
 
 Now we will combine $\dot K = sY -  \delta K$ with example one to derive: 
-$$
-\begin{aligned}
+
+$$\begin{aligned}
 \frac{\dot k}{k} &= \frac{sY}{K} - n - \delta \\
 & = \frac{sY}{K} -n - \delta \\ 
 \dot k  &= sy - (n+\delta)k
-\end{aligned}
-$$
+\end{aligned}$$
 
 This formula can be interpreted as "the change in capital per worker each period is determined by three terms: investment per worker ($sY$) depreciation per worker ($\delta k$) and capital per worker ($nk$)"
 
@@ -150,7 +149,7 @@ In the figure above you can see two curves:
 
 If the difference [$\dot k = sy-(n+\delta)k$] is ***positive*** we call the the economy <color_red> capital deepening</color_red>. When the changes are 0 but actual capital stock ($K$) is growing we refer it as <color_red> capital widening</color_red>. 
 
-If we include also the production function to diagram we can obtain the ***steady-state consumption per worker*** which is the difference between steady-state output per worker $y^*$ and steady-state investment per worker $sy^*$
+If we include also the production function to diagram we can obtain the ***steady-state consumption per worker*** which is the difference between steady-state output per worker $y^{\*}$ and steady-state investment per worker $sy^{\*}$
 
 ![](https://github.com/elias-lee/lelias.github.io/blob/master/_posts/resources/econ_growth/solow_diagram_and_production_function.png?raw=true)
 
