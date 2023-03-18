@@ -1,7 +1,7 @@
 ---
 title: 'ML study series - Transformers'
 date: 2023-03-07
-permalink: /posts/2020/blog-post-8/
+permalink: /posts/2023/blog-post-10/
 tags:
   - AI
 categories:
