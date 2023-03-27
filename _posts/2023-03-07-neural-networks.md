@@ -9,6 +9,10 @@ categories:
   - NLP
 ---
 
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@900&display=swap');
+  {% include blog_css/nn.css %}
+</style>
 
 | Disclaimer: this is a review note contains materials from the following resources.|
 | --- | 
@@ -59,9 +63,11 @@ $$f(x)=
 0 & \text{if } \quad w_1x_1 + w_2x_2 + b < 0
 \end{cases} $$
 
-If the calculated output exceeds a given threshold, it activates or "fires" the node giving an output. The output given becomes the input to the following layer. Each unit doing this job is called Threshold logic units (or TLUs).
+If the calculated output exceeds a given threshold, it activates or "fires" the node giving an output. The output given becomes the input to the following layer. Each unit doing this job is called <color_red>Threshold logic units (or TLUs)</color_red>.
+
 
 ### How TLU learns
+
 <img src = "https://github.com/elias-lee/lelias.github.io/blob/master/_posts/resources/ml_study/TLU_with_sigma.gif?raw=true" style="max-width: 100%;">
 </p>
 
@@ -84,13 +90,25 @@ DO UNTIL (fully_trained):
 ```
 > source: Andrew Blais, David Mertz (2001)
 
-When they use $w_i =  \alpha (t - y) x_i$ is called a perceptron[^2]. 
+When you use $w_i =  \alpha (t - y) x_i$ is called a perceptron[^2]. 
 
+[^2]: Since they use a perceptron learning rate
+
+## Rules to optimize weights
+
+### Perceptron rule 
+The perceptron rule is based on the idea that weight modification is best determined by: some fraction of the difference between target and output. 
+
+
+### Delta rule
+Delta rule is based on gradient descent. In weight modification, a neural net can seek a weight distribution that minimizes error.
 
 
 If the NN is to execute an supervised-learning you'll want to evaluate the accuracy of the trained data, the function that do this job is called a loss (or cost) function. 
 
-[^2]: Since they use a perceptron learning rate
+### Back-propagation
+Is an extension of the analysis in the delta rule to NN with Hidden nodes.
+
 
 ## Types of Neural Network
 ### Feed-Forward Neural Networks (a.k.a Multilayer perceptron)

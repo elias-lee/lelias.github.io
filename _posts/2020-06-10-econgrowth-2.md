@@ -37,6 +37,7 @@ There are important assumption that must be set to understand this model
 Solow's model is built around two equations, <mark style="background: #BBFABBA6;">a production function</mark> and <mark style="background: #FF5582A6;">capital accumulation equation.</mark> 
 
 ## Production Function
+{: #econh2}
 The Production function describes how ***inputs*** combine to produce output.[^1] Inputs are grouped into two categories 💵 capital <mark style="background: #ABF7F7A6;">$K$</mark> and 👷 labor <mark style="background: #ABF7F7A6;">$L$</mark>. The production function is assumed to have a cobb-douglass form. 
 
 $$ Y = F(K,L) = K^\alpha L^{1-\alpha}$$
@@ -74,7 +75,7 @@ gives us: $y=k^\alpha$
 
 
 ## Capital Accumulation
-
+{: #econh2}
 Another important important feature of the Solow model is the description of how capital accumulates Solow's proposed capital accumulation equation is define as 
 
 $$\dot K = \overbrace {sY}^{\text{gross investment}} - \overbrace{ \delta K}^{\text{depreciation of capital}}$$
@@ -127,7 +128,7 @@ This formula can be interpreted as "the change in capital per worker each period
 
 
 # Solving The Basic Solow Model 
-
+{: #econh1}
 > What is a model ❓❓❓ <br>
 A model is an equation describing the relationship among ***endogenous variables*** involving ***exogenous variables***[^5] and ***parameters***. 
 
@@ -139,7 +140,7 @@ $$\dot k  = sy - (n + \delta)k$$
 Now we can see how does the economy of a country grow by using these two equations. 
 
 ## Capital deepening vs capital widening
-
+{: #econh2}
 ![](https://github.com/elias-lee/lelias.github.io/blob/master/_posts/resources/econ_growth/basic_solow_diagram.png?raw=true)
 
 In the figure above you can see two curves:
@@ -155,7 +156,9 @@ If we include also the production function to diagram we can obtain the ***stead
 
 [^5]: Values determined outside of the model
 
-## Comparative Statistics (reactions to shocks)
+## Comparative Statistics 
+{: #econh2}
+(reactions to shocks)
 
 
 

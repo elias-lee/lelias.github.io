@@ -1,49 +1,48 @@
-/* TODO: Why does styling applies to all blogs pages and not only within Markdown posts  */
+
 body {counter-reset: h2}
 
-
-h1 {
-    counter-reset: h2;
+#econh1 {
+    counter-reset: #econh2;
 }
 
-h2 {
+#econh2 {
     font-weight: lighter;
     font-family: 'Playfair Display', serif;
     margin-top: 2rem;
     margin-bottom: 1rem;
     color: #8E5BEB;
-    counter-reset: h3
+    counter-reset: #econh3
 }
 
-h3 {
+#econh3 {
     font-weight: lighter;
     font-family: 'Playfair Display', serif;
     margin-top: 1rem;
     margin-bottom: 1rem;
     color: #6048D4;
-    counter-reset: h4
+    counter-reset: econh4
 }
 
-h4 {
+#econh4 {
     font-weight: lighter;
     font-family: 'Playfair Display', serif;
     color: #32325D;
     font-size:large;
-    counter-reset: h5
+    counter-reset: econh4
 }
-h5 {counter-reset: h6}
+#econh5 {counter-reset: econh6}
 
-h2:before {counter-increment: h2; content: counter(h2) ". "}
-h3:before {counter-increment: h3; content: counter(h2) "." counter(h3) ". "}
-h4:before {counter-increment: h4; content: counter(h2) "." counter(h3) "." counter(h4) ". "}
-h5:before {counter-increment: h5; content: counter(h2) "." counter(h3) "." counter(h4) "." counter(h5) ". "}
-h6:before {counter-increment: h6; content: counter(h2) "." counter(h3) "." counter(h4) "." counter(h5) "." counter(h6) ". "}
+/* #econh2:before {counter-increment: #econh2; content: counter(#econh2) "."}
+h3:before {counter-increment: h3; content: counter(h2) "." counter(h3) "."}
+h4:before {counter-increment: h4; content: counter(h2) "." counter(h3) "." counter(h4) "."}
+h5:before {counter-increment: h5; content: counter(h2) "." counter(h3) "." counter(h4) "." counter(h5) "."}
+h6:before {counter-increment: h6; content: counter(h2) "." counter(h3) "." counter(h4) "." counter(h5) "." counter(h6) "."}
 
-h2.nocount:before, 
+#econh2.nocount:before, 
 h3.nocount:before, 
 h4.nocount:before, 
 h5.nocount:before, 
-h6.nocount:before { content: ""; counter-increment: none } 
+h6.nocount:before { content: ""; counter-increment: none }  */
 
 color_red{
     font-family: 'Playfair Display', serif;
